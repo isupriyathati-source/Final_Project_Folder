@@ -1,1 +1,2 @@
+pip install --upgrade pip
 pip install streamlit pandas numpy scikit-learn matplotlib seaborn pymongo google-generativeai joblib openpyxl
