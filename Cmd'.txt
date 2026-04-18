@@ -1,0 +1,5 @@
+python -m venv venv
+venv\Scripts\activate
+pip install streamlit
+python -m streamlit run launcher_app.py
+streamlit run launcher_app.py --server.port 8500
